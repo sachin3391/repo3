@@ -1,2 +1,3 @@
 story begin
 once there was a man.
+he was very hungry.

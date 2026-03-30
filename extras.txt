@@ -1,0 +1,11 @@
+hello this file is created by vim 
+
+first type
+
+touch extras.txt
+
+then second 
+
+vim extras.txt
+
+

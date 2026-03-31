@@ -9,6 +9,6 @@ then second
 vim extras.txt
 
 
-deletion for check pull updates
+deletion for check pull updates..
 
 
